@@ -1,7 +1,11 @@
 {
-  "name": "your-flower-shop-worker", // Replace with a unique name for your Worker
-  "compatibility_date": "2025-05-28", // Use today's date or a later one
-  "main": "index.html", // Your site's entry HTML file is now the main entry
-  "compatibility_flags": [ "nodejs_compat" ],
-  "bucket": "./" // This remains, indicating where your static files are
+  "name": "your-flower-shop-worker", // Your unique Worker name
+  "compatibility_date": "2025-05-28", // Keep this as today's date or later
+  "site": {
+    "bucket": "./" // This tells Wrangler where your static files (HTML, CSS, JS, images) are located
+    // No "entry-point" or "main" here anymore
+  }
+  // Remove "main": "index.html" from the top level
+  // You also don't need "compatibility_flags": [ "nodejs_compat" ] for a simple static site,
+  // but it doesn't hurt if you plan to add Worker logic later.
 }
