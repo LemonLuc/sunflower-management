@@ -3,7 +3,5 @@
   "compatibility_date": "2025-05-28", // Use today's date or a later one
   "main": "index.html", // Your site's entry HTML file is now the main entry
   "compatibility_flags": [ "nodejs_compat" ],
-  "site": {
-    "bucket": "./" // This remains, indicating where your static files are
-  }
+  "bucket": "./" // This remains, indicating where your static files are
 }
