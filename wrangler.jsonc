@@ -1,0 +1,10 @@
+{
+  "name": "your-flower-shop-worker", // Replace with a unique name for your Worker
+  "compatibility_date": "2024-05-28", // This should be today's date or later
+  "main": "app.js", // If app.js is your worker script, otherwise change to your entry point
+  "compatibility_flags": [ "nodejs_compat" ], // Often useful for compatibility with Node.js APIs
+  "site": {
+    "bucket": "./", // Assuming your HTML, CSS, images are in the root directory
+    "entry-point": "index.html" // Your main HTML file for the site
+  }
+}
