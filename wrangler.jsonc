@@ -7,5 +7,6 @@
       "pattern": "aws-summit.lab-lucie.de",
       "custom_domain": true
     }
-  ]
+    ],
+  "workers_dev": true
 }
