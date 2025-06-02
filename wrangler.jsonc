@@ -1,5 +1,11 @@
 {
   "name": "sunflower-management", // so wird Worker genannt nach deploy
   "compatibility_date": "2025-06-02", // kann auch von letzter Woche sein
- "assets": { "directory": "./dist" } // sites ersetzt durch assets 
+ "assets": { "directory": "./dist" }, 
+   "routes": [
+    {
+      "pattern": "aws-summit.lab-lucie.de",
+      "custom_domain": true
+    }
+  ]
 }
