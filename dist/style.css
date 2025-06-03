@@ -566,7 +566,7 @@ footer.footer ul li a {
 }
 
 footer.footer ul li a:hover {
-    color: #e15a7f;
+    color: #e3b024;
     transition: 0.5s ease-out;
 }
 
@@ -585,7 +585,7 @@ footer.footer .row.copy-right p {
 }
 
 footer.footer span.clrchange {
-    color: #e15a7f;
+    color: #e9b823;
 }
 
 section.section5 .container .row .owl-carousel .txtwithicon {
@@ -634,7 +634,7 @@ section.section5 .container .row .owl-carousel .txtwithicon:before {
 
 section.section1 a.links:hover {
     transition: 0.5s ease-out;
-    background: #e15a7f;
+    background: #e7b725;
 }
 
 marquee.marque {
@@ -668,7 +668,7 @@ marquee.marque {
 .topbtn a i {
     font-family: "FontAwesome" !important;
     color: #ffffff;
-    background: #e15a7f;
+    background: #ebb727;
     width: 100px;
     height: 98px;
     display: flex;
@@ -705,7 +705,7 @@ marquee.marque {
 
 .section5 button i {
     font-size: 30px;
-    background: #e15a7f;
+    background: #e3b03a;
     color: #ffffff;
     padding: 20px;
     border-radius: 100px;
@@ -715,7 +715,7 @@ marquee.marque {
 
 .section5 .owl-carousel button i {
     transition: 0.5s ease;
-    background: #e15a7f;
+    background: #eab932;
 }
 
 .section5 .owl-carousel button i:hover {
@@ -733,7 +733,7 @@ body {
 }
 
 .section6 h1.mainheading:hover {
-    color: #e15a7f;
+    color: #eab932;
     transition: 0.5s ease-out;
 }
 
@@ -750,7 +750,7 @@ section.section5 .container .row .owl-carousel .owl-item:hover .txtwithicon:befo
 
 .section5 h1.mainheading:hover {
     transition: 0.5s ease-out;
-    color: #e15a7f;
+    color: #eab932;
 }
 
 .section5 h1.mainheading span {
@@ -769,7 +769,7 @@ section.section4 .container .row:nth-child(1) h1:hover span {
 
 section.section4 .container .row:nth-child(1) h1:hover {
     transition: 0.5s ease-out;
-    color: #e15a7f;
+    color: #eab932;
 }
 
 section.section4 .container .row:nth-child(1) h1 span {
@@ -777,7 +777,7 @@ section.section4 .container .row:nth-child(1) h1 span {
 }
 
 .section2 h1:hover {
-    color: #e15a7f;
+    color: #eab932;
     transition: 0.5s ease-out;
 }
 
@@ -1844,7 +1844,7 @@ header .container .row .navbar::-webkit-scrollbar
 
 header .container .row .navbar::-webkit-scrollbar-thumb
 {
-	background-color: #e15a7f;
+	background-color: #eab932;
 }
 
 
