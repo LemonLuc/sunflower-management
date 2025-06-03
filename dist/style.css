@@ -19,7 +19,7 @@ header .container .row .navbar h1.logo {
 }
 
 header .container .row .navbar h1.logo span {
-    color: #e15a7f;
+    color: #eab932;
     margin-left: -10px !important;
 }
 
@@ -56,7 +56,7 @@ header .container .row .navbar div#navbarNav .navbar-nav:nth-child(1) {
 }
 
 header .container .row .navbar div#navbarNav .navbar-nav li a:hover {
-    color: #e15a7f;
+    color: #eab932;
     transition: 0.5s ease-out;
 }
 
@@ -210,7 +210,7 @@ section.section1 a.links {
 }
 
 .section2 .col-sm-6:nth-child(2) a:hover {
-    background: #e15a7f;
+    background: #eab932;
     transition: 0.5s ease-out;
 }
 
@@ -289,7 +289,7 @@ section.section4 .container .row:nth-child(1) h1 {
 }
 
 section.section4 .container .row:nth-child(1) h1 span {
-    color: #e15a7f;
+    color: #eab932;
 }
 
 section.section4 .col-sm-4 .innerproductsection {
@@ -310,7 +310,7 @@ section.section4 .col-sm-4 .innerproductsection img {
 section.section4 .col-sm-4 .innerproductsection span.discount {
     position: absolute;
     font-family: 'JOST';
-    color: #e15a7f;
+    color: #eab932;
     font-size: 25px;
     top: 15px;
     font-weight: 500;
@@ -321,7 +321,7 @@ section.section4 .col-sm-4 .innerproductsection span.discount {
 }
 
 section.section4 .col-sm-4 .innerproductsection .cartcontainer button {
-    background: #e15a7f;
+    background: #eab932;
     width: 100%;
     border: none;
     height: 55px;
@@ -362,7 +362,7 @@ section.section4 .col-sm-4 .innerproductsection h1.price {
 section.section4 .col-sm-4 .innerproductsection h1.price span {
     font-size: 32px;
     font-family: 'Jost';
-    color: #e15a7f;
+    color: #eab932;
     font-weight: 700;
     margin-right: 5px;
 }
@@ -407,7 +407,7 @@ section.section5 {
 }
 
 .section5 h1.mainheading span {
-    color: #e15a7f;
+    color: #eab932;
 }
 
 section.section5 .container .row .owl-carousel .reviewinner {
@@ -431,7 +431,7 @@ section.section5 .container .row .owl-carousel .reviewinner ul li {
 
 section.section5 .container .row .owl-carousel .reviewinner ul li i {
     font-size: 23px;
-    color: #e15a7f;
+    color: #eab932;
 }
 
 section.section5 .container .row .owl-carousel .reviewinner p {
@@ -459,7 +459,7 @@ section.section6 {
 }
 
 .section6 h1.mainheading span {
-    color: #e15a7f;
+    color: #eab932;
     transition: 0.5s ease;
 }
 
@@ -529,7 +529,7 @@ section.section6 {
 }
 
 .section6 .col-sm-6:nth-child(1) form button.links:hover {
-    background: #e15a7f;
+    background: #eab932;
     transition: 0.5s ease-out;
     border: none;
 }
